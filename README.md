@@ -16,7 +16,7 @@ To get started with the MRI Skull Image Analysis project, users should ensure th
 
 Users can clone or download the project repository and run the main script. Upon execution, the program will prompt the user to select an MRI image file for analysis. Detailed instructions for running the program are provided within the code comments.
 
-## Where users can get help with your project
+## Where users can get help with the project
 Users can seek help with the MRI Skull Image Analysis project by referring to the comments within the code, which provide explanations of the various functions and processing steps. Additionally, users can find assistance and engage with the community by posting questions or issues on the project's GitHub repository or relevant forums and discussion boards related to medical imaging or Python programming.
 
 ## Who maintains and contributes to the project
